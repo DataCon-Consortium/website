@@ -35,7 +35,9 @@ export default function RootLayout({
 }) {
   return (
     <html suppressHydrationWarning lang="en">
-      <head />
+      <head>
+         <Script>https://genistud.io/chatbot/cm9ocndty0001le044c2z07o8</script>
+      </head>
       <body
         className={clsx(
           "min-h-screen bg-background-100 dark:bg-black-100 font-sans antialiased",
