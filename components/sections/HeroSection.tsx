@@ -23,10 +23,10 @@ export function HeroSection() {
               Welcome to
             </span>
             <br />
-            <h1 className="text-3xl md:text-7xl font-bold my-8 ">DataConn</h1>
+            <h1 className="text-3xl md:text-7xl font-bold my-8 ">DataCon</h1>
 
             <p className="text-gray-400 text-xl mb-8 max-w-2xl mx-auto">
-              DataCon is a consortium of organization geared towards creating a
+              DataCon is a consortium of organizations geared towards creating a robust, scalable and interoperable
               data and AI ecosystem that powers innovation and economic growth
               in Sierra Leone.
             </p>
@@ -63,16 +63,16 @@ export function HeroSection() {
               <span className="text-md text-white">Data</span>
             </span>
             <span className="absolute bottom-2 right-32  px-4 py-2 bg-gradient-to-tr from-gray-700 to-black-300 flex items-center justify-center rounded-full">
-              <span className="text-md text-white">Cleaning</span>
+              <span className="text-md text-white">Collection</span>
             </span>
             <span className="absolute top-1/2 left-2  px-4 py-2 bg-gradient-to-tr from-gray-700 to-black-300 flex items-center justify-center rounded-full">
-              <span className="text-md text-white">Structuring</span>
-            </span>
-            <span className="absolute top-1/2 right-2  px-4 py-2 bg-gradient-to-tr from-gray-700 to-black-300 flex items-center justify-center rounded-full">
               <span className="text-md text-white">Annotation</span>
             </span>
+            <span className="absolute top-1/2 right-2  px-4 py-2 bg-gradient-to-tr from-gray-700 to-black-300 flex items-center justify-center rounded-full">
+              <span className="text-md text-white">Cleaning</span>
+            </span>
             <span className="absolute top-1/2 left-16  px-4 py-2 bg-gradient-to-tr from-gray-700 to-black-300 flex items-center justify-center rounded-full">
-              <span className="text-md text-white">Ai</span>
+              <span className="text-md text-white">Automation</span>
             </span>
             {/* circle 1 */}
             <div className="flex items-center justify-center bg-gradient-to-t from-black-300/50 to-black-200/50 rounded-full border border-black-300 p-6 h-[350px] w-[350px] mx-auto mb-8 mt-16 relative animate-pulse">
